@@ -38,6 +38,5 @@ func Test_SortByBits(t *testing.T) {
 				t.Error("failed", v)
 			}
 		})
-
 	}
 }
